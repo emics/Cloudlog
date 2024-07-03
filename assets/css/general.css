@@ -344,6 +344,7 @@ TD.lotw {
 .dropdown-menu {
 	z-index: 2000 !important;
 	position: absolute !important;
+	left: -200px;
 }
 
 .was-map-dialog .modal-dialog {
